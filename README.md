@@ -13,6 +13,7 @@ Open Source Code_VR-1541F_M31
 1.6 GB -> 2.6 GB when extracted
 V3.0
 24 Oct 2018
+
 _Code is from lenovo's driver support site for the Mirage Solo, info and readme is forked from NightGaunt_
 The general thread for the rebuild of the Lenovo Mirage Solo OS. This project will rebuild Google's abandoned Daydream platform into a full VR Native Linux Kernel.
 
