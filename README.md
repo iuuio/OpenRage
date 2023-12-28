@@ -14,7 +14,8 @@ Open Source Code_VR-1541F_M31
 V3.0
 24 Oct 2018
 
-~~~Here are instructions for building the kernel.
+~~~
+Here are instructions for building the kernel.
 
 First, get the Android NDK from https://developer.android.com/ndk/downloads/
 This is for the compiler prebuilts.
