@@ -15,6 +15,7 @@ V3.0
 24 Oct 2018
 
 _Code is from lenovo's driver support site for the Mirage Solo, info and readme is forked from NightGaunt_
+Setting up the HMD without wifi is possible: click four times with manipulator pointer on the first language selection panel: From the upper left corner, upper right corner, bottom right then to the lower left corner just into the void in within this language selection box. 
 
 The general thread for the rebuild of the Lenovo Mirage Solo OS. This project will rebuild Google's abandoned Daydream platform into a full VR Native Linux Kernel.
 
